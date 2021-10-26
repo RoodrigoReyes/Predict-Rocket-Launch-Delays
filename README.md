@@ -1,1 +1,1 @@
-# Predict-Rocket-Launch-Delays
+# Predict rocket launch delays with machine learning and XGBoost
